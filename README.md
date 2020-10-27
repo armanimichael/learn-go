@@ -8,7 +8,7 @@ Instead of writing blog posts about Go, I will create different folders containi
 
 ## Currently Available Snippets
 
-- WIP
+- [Hello World](./hello-world/hello-world.go)
 
 ## Contributions
 

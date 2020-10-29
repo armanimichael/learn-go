@@ -15,6 +15,9 @@ Instead of writing blog posts about Go, I will create different folders containi
   - [Zero Values](./variables/zero-values.go)
   - [Type Inference](./variables/inferring-types.go)
   - [Variables Updating Shortcuts](./variables/var-update-shortcuts.go)
+- IO
+  - [Formatting Prints](./io/formatting-prints.go)
+  - [User Input](./io/user-input.go)
 
 ## Contributions
 

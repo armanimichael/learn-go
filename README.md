@@ -18,6 +18,13 @@ Instead of writing blog posts about Go, I will create different folders containi
 - IO
   - [Formatting Prints](./io/formatting-prints.go)
   - [User Input](./io/user-input.go)
+- Arrays and Slices
+  - [Arrays](./arrays-and-slices/arrays.go)
+  - [Cloning Arrays](./arrays-and-slices/cloning-arrays.go)
+  - [Index Filtering](./arrays-and-slices/index-filtering.go)
+  - [Length and Capacity](./arrays-and-slices/length-and-capacity.go)
+  - [Multidimensional Arrays](./arrays-and-slices/multi-dimensional-arrays.go)
+  - [Slices](./arrays-and-slices/slices.go)
 
 ## Contributions
 

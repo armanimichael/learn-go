@@ -6,6 +6,16 @@ Documented code to learn Go language.
 
 Instead of writing blog posts about Go, I will create different folders containing similar concepts and documenting them via comments.<br/>
 
+## Requirements
+
+If you'd like to run the snippets on your machine, you'll have to download and install the [Go binaries](https://golang.org/dl/) from their website.
+
+Optionally, you can install a code editor. I personally advice using [VSCode](https://code.visualstudio.com/) or [Atom](https://atom.io/), as they're free and have both officially supported plugins for the Go language.
+
+## Running the Code Snippets
+
+Every snippet works individually, unless stated othervise. You can run one by using the `go run snippet-name.go` command.
+
 ## Currently Available Snippets
 
 - [Hello World](./hello-world/hello-world.go)
@@ -25,6 +35,12 @@ Instead of writing blog posts about Go, I will create different folders containi
   - [Length and Capacity](./arrays-and-slices/length-and-capacity.go)
   - [Multidimensional Arrays](./arrays-and-slices/multi-dimensional-arrays.go)
   - [Slices](./arrays-and-slices/slices.go)
+- Structures
+  - [Structs](./structures/struct.go)
+  - [Anonymous Structs](./structures/anonymous-structs.go)
+  - [Embedding Structs](./structures/embedding-structs.go)
+  - [Nested Structs](./structures/nested-structs.go)
+  - [Tags](./structures/tags.go)
 
 ## Contributions
 

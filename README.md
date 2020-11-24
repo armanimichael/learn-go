@@ -41,6 +41,10 @@ Every snippet works individually, unless stated othervise. You can run one by us
   - [Embedding Structs](./structures/embedding-structs.go)
   - [Nested Structs](./structures/nested-structs.go)
   - [Tags](./structures/tags.go)
+- Maps
+  - [Maps](./maps/maps.go)
+  - [Delete Map Values](./maps/delete-items.go)
+  - [Check Value Existence](./maps/check-if-item-exists.go)
 
 ## Contributions
 

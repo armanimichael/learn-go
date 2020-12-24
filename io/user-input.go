@@ -32,7 +32,7 @@ func main() {
 		You can perform more complex scans using
 		Scanf, it will require the use of verbs
 		to predermine the form of the wanted input.
-		In this case, it accetps a string and an integer => %s %d
+		In this case, it accepts a string and an integer => %s %d
 	*/
 	var firstPart string
 	var secondPart int

@@ -45,6 +45,10 @@ Every snippet works individually, unless stated othervise. You can run one by us
   - [Maps](./maps/maps.go)
   - [Delete Map Values](./maps/delete-items.go)
   - [Check Value Existence](./maps/check-if-item-exists.go)
+- Conditionals
+  - [logical-operators](./conditionals/logical-operators.go)
+  - [if](./conditionals/if.go)
+  - [switch](./conditionals/switch.go)
 
 ## Contributions
 

@@ -11,7 +11,7 @@ func main() {
 	*/
 
 	var someInteger = 47
-	var someFlootingPoint = 24.22
+	var someFloatingPoint = 24.22
 	var name = "Giulio"
 	var isGoFun = true
 
@@ -25,7 +25,7 @@ func main() {
 
 	// We can then print the out in console if we wish to.
 	fmt.Println(someInteger)
-	fmt.Println(someFlootingPoint)
+	fmt.Println(someFloatingPoint)
 	fmt.Println(name)
 	fmt.Println(isGoFun)
 	fmt.Println(eulerNumber)

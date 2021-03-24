@@ -14,7 +14,7 @@ Optionally, you can install a code editor. I personally advice using [VSCode](ht
 
 ## Running the Code Snippets
 
-Every snippet works individually, unless stated othervise. You can run one by using the `go run snippet-name.go` command.
+Every snippet works individually, unless stated otherwise. You can run one by using the `go run snippet-name.go` command.
 
 ## Currently Available Snippets
 
@@ -49,6 +49,11 @@ Every snippet works individually, unless stated othervise. You can run one by us
   - [logical-operators](./conditionals/logical-operators.go)
   - [if](./conditionals/if.go)
   - [switch](./conditionals/switch.go)
+- Loops
+  - [for](./loops/for.go)
+  - [while](./loops/for.go)
+  - [Altering Loops Flow](./loops/altering-loops-flow.go)
+  - [traverse-collections](./loops/traverse-collections.go)
 
 ## Contributions
 

@@ -53,7 +53,7 @@ Every snippet works individually, unless stated otherwise. You can run one by us
   - [for](./loops/for.go)
   - [while](./loops/for.go)
   - [Altering Loops Flow](./loops/altering-loops-flow.go)
-  - [traverse-collections](./loops/traverse-collections.go)
+  - [Traverse Collections](./loops/traverse-collections.go)
 
 ## Contributions
 

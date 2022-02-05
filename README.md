@@ -25,6 +25,11 @@ Every snippet works individually, unless stated otherwise. You can run one by us
   - [Zero Values](./variables/zero-values.go)
   - [Type Inference](./variables/inferring-types.go)
   - [Variables Updating Shortcuts](./variables/var-update-shortcuts.go)
+- Pointers
+  - [Pointers](./pointers/pointers.go)
+  - [Deferencing](./pointers/pointer-deference.go)
+  - [Pointer to pointer](./pointers/pointer-to-pointer.go)
+  - [The new keyword](./pointers/new-keyword.go)
 - IO
   - [Formatting Prints](./io/formatting-prints.go)
   - [User Input](./io/user-input.go)

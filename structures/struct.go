@@ -25,12 +25,12 @@ func main() {
 	fmt.Printf("%v %v is %v years old.\n", jimmy.name, jimmy.lastname, jimmy.age)
 
 	// No need to instantiate a struct fields right away, they default to zero values
-	jhonny := person{}
+	johnny := person{}
 
 	//  Accessing and setting single field
-	jhonny.name = "Jhonny"
+	johnny.name = "Johnny"
 
-	fmt.Println(jhonny)
+	fmt.Println(johnny)
 
 	/*
 		Structs are values, you can clone

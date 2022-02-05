@@ -21,12 +21,12 @@ func main() {
 	}
 
 	// 1 way to instantiate an embedded struct
-	jhon := worker{}
-	jhon.person.name = "Jhon"
-	jhon.person.lastname = "Smith"
-	jhon.person.age = 38
-	jhon.job = "programmer"
-	jhon.workHours = 40
+	john := worker{}
+	john.person.name = "John"
+	john.person.lastname = "Smith"
+	john.person.age = 38
+	john.job = "programmer"
+	john.workHours = 40
 
 	// Another way to instantiate an embedded struct, this looks the same as embedding
 	jane := worker{
@@ -35,6 +35,6 @@ func main() {
 		workHours: 40,
 	}
 
-	fmt.Println(jhon)
+	fmt.Println(john)
 	fmt.Println(jane)
 }

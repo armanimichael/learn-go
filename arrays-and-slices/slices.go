@@ -34,7 +34,7 @@ func main() {
 	*/
 	slice3 = append(slice3, 161, 179, 7, 75, 280)
 
-	// Appending another slices's elements
+	// Appending another slice's elements
 	slice3 = append(slice3, slice...)
 
 	fmt.Println("Slice3 appends:", slice3)
@@ -53,7 +53,7 @@ func main() {
 	fmt.Println("Slice3 updated:", slice3)
 
 	/*
-		The make function let's us create an uninitialized slice with set capacity and length
+		The make function lets us create an uninitialized slice with set capacity and length
 		1st arg = type
 		2nd arg = length
 		3rd arg = capacity
